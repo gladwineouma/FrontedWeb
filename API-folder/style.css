@@ -1,0 +1,10 @@
+#user-profile-container{
+    display: grid;
+    grid-template-columns: repeat( auto-fill, minmax(300px));
+    gap: 20px;
+}
+.profile-grid{
+    border: solid 1px gray;
+    width: 95%;
+    padding: 5px;
+}
